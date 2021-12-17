@@ -7,15 +7,15 @@ Desarrollador web **full stack** con experiencia en desarrollo e implementación
 
 ### Herramientas y habilidades 🤓
 
-<code><img width="30" src="https://raw.githubusercontent.com/cablandon89/cablandon89/main/img/html5.png"></code>
-<code><img width="30" src="https://raw.githubusercontent.com/cablandon89/cablandon89/main/img/css3.png"></code>
-<code><img width="30" src="https://raw.githubusercontent.com/cablandon89/cablandon89/main/img/js.png"></code>
-<code><img width="30" src="https://raw.githubusercontent.com/cablandon89/cablandon89/main/img/bootstrap.png"></code>
-<code><img width="30" src="https://raw.githubusercontent.com/cablandon89/cablandon89/main/img/reactjs.png"></code>
-<code><img width="30" src="https://raw.githubusercontent.com/cablandon89/cablandon89/main/img/php.png"></code>
-<code><img width="30" src="https://raw.githubusercontent.com/cablandon89/cablandon89/main/img/Codeigniter.png"></code>
-<code><img width="30" src="https://raw.githubusercontent.com/cablandon89/cablandon89/main/img/node.png"></code>
-<code><img width="30" src="https://raw.githubusercontent.com/cablandon89/cablandon89/main/img/db.png"></code>
+<code><img width="30" src="https://raw.githubusercontent.com/cablandon89/cablandon89/main/img/html5.png" alt="html5" title="html5"></code>
+<code><img width="30" src="https://raw.githubusercontent.com/cablandon89/cablandon89/main/img/css3.png" alt="css3" title="css3"></code>
+<code><img width="30" src="https://raw.githubusercontent.com/cablandon89/cablandon89/main/img/js.png" alt="javascript" title="javascript"></code>
+<code><img width="30" src="https://raw.githubusercontent.com/cablandon89/cablandon89/main/img/bootstrap.png" alt="bootstrap" title="bootstrap"></code>
+<code><img width="30" src="https://raw.githubusercontent.com/cablandon89/cablandon89/main/img/reactjs.png" alt="reactjs" title="reactjs"></code>
+<code><img width="30" src="https://raw.githubusercontent.com/cablandon89/cablandon89/main/img/php.png" alt="php" title="php"></code>
+<code><img width="30" src="https://raw.githubusercontent.com/cablandon89/cablandon89/main/img/codeigniter.png" alt="codeigniter" title="codeigniter"></code>
+<code><img width="30" src="https://raw.githubusercontent.com/cablandon89/cablandon89/main/img/node.png" alt="nodejs" title="nodejs"></code>
+<code><img width="30" src="https://raw.githubusercontent.com/cablandon89/cablandon89/main/img/db.png" alt="databases" title="databases"></code>
 
 ### Cómo vamos en GitHub &#x1f4c8;
 
