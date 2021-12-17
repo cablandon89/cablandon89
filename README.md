@@ -1,6 +1,6 @@
 ## Hola! soy 👋
 
-<code><img width="300" src="https://raw.githubusercontent.com/cablandon89/cablandon89/main/img/LogoColor.png"></code>
+<code><img width="400" src="https://raw.githubusercontent.com/cablandon89/cablandon89/main/img/LogoColor.png"></code>
 
 Soy una persona alegre, risueña, amante a la informática, los viajes sin planear y las hamburguesas.
 Desarrollador web **full stack** con experiencia en desarrollo e implementación de soluciones informáticas que faciliten los procesos del cliente. Orientado al servicio, en aprendizaje continuo y gran capacidad de trabajar en equipo.
@@ -18,9 +18,13 @@ Desarrollador web **full stack** con experiencia en desarrollo e implementación
 <code><img width="30" src="https://raw.githubusercontent.com/cablandon89/cablandon89/main/img/dev/node.png" alt="nodejs" title="nodejs"></code>
 <code><img width="30" src="https://raw.githubusercontent.com/cablandon89/cablandon89/main/img/dev/db.png" alt="databases" title="databases"></code>
 
-_Más de mi_
-Puedes saber más de mi en mis redes sociales y laborales, si quieres conocer mis proyectos pues estás en el lugar indicado 😉
+### _Más de mi_ 😎
+
+Puedes saber más de mi en mis redes sociales y laborales, si quieres conocer mis proyectos pues estás en el lugar indicado 😉 \
+<code><a href="https://www.facebook.com/ceblandonres/" target="_blank"><img width="30" src="https://raw.githubusercontent.com/cablandon89/cablandon89/main/img/social/facebook.png" alt="facebook" title="facebook"></a> </code>
 <code><a href="https://www.instagram.com/cablandon89/" target="_blank"><img width="30" src="https://raw.githubusercontent.com/cablandon89/cablandon89/main/img/social/instagram.png" alt="instagram" title="instagram"></a> </code>
+<code><a href="https://www.linkedin.com/in/cablandon89/" target="_blank"><img width="30" src="https://raw.githubusercontent.com/cablandon89/cablandon89/main/img/social/linkedin.png" alt="linkedin" title="linkedin"></a> </code>
+<code><a href="https://cesarblandon.com/" target="_blank"><img width="30" src="https://raw.githubusercontent.com/cablandon89/cablandon89/main/img/social/logo.png" alt="logo" title="Mi sitio web"></a> </code>
 
 ### Cómo vamos en GitHub &#x1f4c8;
 
